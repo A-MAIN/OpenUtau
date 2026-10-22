@@ -403,6 +403,7 @@ Do you want to continue by splitting at the nearest position after current playh
   <system:String x:Key="exps.type.options">Options</system:String>
 
   <system:String x:Key="languages.de">German</system:String>
+  <system:String x:Key="languages.el">Greek</system:String>
   <system:String x:Key="languages.en">English</system:String>
   <system:String x:Key="languages.es">Spanish</system:String>
   <system:String x:Key="languages.fil">Filipino</system:String>
